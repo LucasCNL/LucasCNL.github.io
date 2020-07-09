@@ -4,9 +4,10 @@
 <head>
 	<title> Hello world </title>
 	<meta charset='utf-8'>
-	<link rel='stylesheet' type='text/css' href='CSS/teste.css'>	
+		
 		
 </head>
+<link rel='stylesheet' type='text/css' href='CSS/teste.css'>
 	<body>
 		<h1 id='sub1' class='sans'>Subtitle 1 </h1>
 		<h2 class='sans'>Subtitle 2 </h2>
